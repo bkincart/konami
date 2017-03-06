@@ -1,0 +1,7 @@
+---
+title: "Konami Code"
+type: "exercise"  # challenge, exercise, article, video
+description: "Add an external library to your website."
+tags: "javascript"
+ignore:
+- "konami-code.md"
